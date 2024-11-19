@@ -17,5 +17,11 @@ python main.py
 - 注意,需要安装适合自己浏览器的 webdriver 并在 ruclogin 时配置相应路径
 - 抢课结果将会打印到本地的 result.txt 文件中，同时也会在控制台输出
 - 可通过setting.json文件调整抢课速度和选择讲座或研讨课
+```json
+{
+    "rate":300, //seconds
+    "type":0 // 24：讲座，108: 活动， 0: 全部
+}
+```
 
 
