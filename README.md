@@ -20,7 +20,7 @@ python main.py
 ```json
 {
     "rate":300, //seconds
-    "type":0 // 24：讲座，108: 活动， 0: 全部
+    "type":0 // 24：讲座，108: 研讨， 0: 全部
 }
 ```
 
